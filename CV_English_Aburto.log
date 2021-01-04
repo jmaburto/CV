@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.21)  22 DEC 2020 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.21)  4 JAN 2021 16:42
 entering extended mode
 **./CV_English_Aburto.tex
 (CV_English_Aburto.tex
@@ -368,9 +368,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--307
  []
 
 
-Overfull \hbox (29.56862pt too wide) in paragraph at lines 308--309
-[]\OT1/cmr/m/n/12 01/09/2015-Present. \OT1/cmr/bx/n/12 Guest re-searcher\OT1/cm
-r/m/n/12 . Max Planck In-sti-tute for De-mo-graphic
+Overfull \hbox (3.74818pt too wide) in paragraph at lines 308--309
+[]\OT1/cmr/m/n/12 01/07/2017-Present. \OT1/cmr/bx/n/12 Con-sul-tant (reg-u-lar 
+ba-sis)\OT1/cmr/m/n/12 . World Bank. Projects:
  []
 
 
@@ -379,24 +379,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--309
  []
 
 
-Overfull \hbox (3.74818pt too wide) in paragraph at lines 310--311
-[]\OT1/cmr/m/n/12 01/07/2017-Present. \OT1/cmr/bx/n/12 Con-sul-tant (reg-u-lar 
-ba-sis)\OT1/cmr/m/n/12 . World Bank. Projects:
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 310--311
-
- []
-
-
-Overfull \hbox (30.58485pt too wide) in paragraph at lines 312--313
-[]\OT1/cmr/m/n/12 13/02/2020-13/05/2020. \OT1/cmr/bx/n/12 Post-doctoral re-sear
-ch as-so-ciate \OT1/cmr/m/n/12 . In-ter-dis-ci-plinary
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
@@ -411,14 +394,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
-[1
 
-{C:/Users/jmabu/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
+[1
 
+{C:/Users/jmabu/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
@@ -492,7 +475,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--345
 
  []
 
-[2]
+
 Overfull \hbox (3.66425pt too wide) in paragraph at lines 347--348
 []\OT1/cmr/bx/n/12 National Coun-cil of Sci-ence and Tech-nol-ogy (CONA-CYT) fu
 nd-ing
@@ -503,7 +486,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
-
+[2]
 Overfull \hbox (9.82396pt too wide) in paragraph at lines 350--351
 []\OT1/cmr/bx/n/12 National Coun-cil of Sci-ence and Tech-nol-ogy (CONA-CYT) St
 udent-
@@ -641,12 +624,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 402--403
 
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 404--405
 
  []
 
-
+[4]
 Overfull \hbox (0.96771pt too wide) in paragraph at lines 406--408
 []\OT1/cmr/m/n/12 16. Riffe, T., \OT1/cmr/bx/n/12 Aburto, J.M.\OT1/cmr/m/n/12 .
  (2020) ``Lexis fields''. \OT1/cmr/m/it/12 De-mo-graphic Re-search\OT1/cmr/m/n/
@@ -728,12 +711,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 424--425
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 428--429
 
  []
@@ -774,12 +757,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
@@ -835,12 +818,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--472
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 473--475
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 476--477
 
  []
@@ -908,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 500--501
 
  []
 
-[8]
+
 Underfull \hbox (badness 10000) in paragraph at lines 502--503
 
  []
@@ -918,7 +901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 510--511
 
  []
@@ -949,6 +932,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 524--525
  []
 
 
+Overfull \hbox (6.66167pt too wide) in paragraph at lines 526--527
+[]\OT1/cmr/m/n/10.95 2021 Or-ga-nizer of the we-bi-nar ``New per-spec-tives on 
+lifes-pan in-equal-ity' Uni-ver-sity
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 526--527
 
  []
@@ -968,28 +957,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
-[9]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 535.
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 537.
 
 Underfull \hbox (badness 10000) in paragraph at lines 537--538
 
  []
 
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
-Overfull \hbox (10.20676pt too wide) in paragraph at lines 539--540
-[]\OT1/cmr/bx/n/10.95 Leveraging for-mal de-mog-ra-phy to un-der-stand lifes-pa
-n in-equal-ity trends. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--540
-
+Overfull \hbox (10.20676pt too wide) in paragraph at lines 541--542
+[]\OT1/cmr/bx/n/10.95 Leveraging for-mal de-mog-ra-phy to un-der-stand lifes-pa
+n in-equal-ity trends. 
  []
 
 
@@ -1043,24 +1031,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 559--560
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
 
  []
 
 
-Overfull \hbox (5.29295pt too wide) in paragraph at lines 564--565
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
+
+ []
+
+
+Overfull \hbox (5.29295pt too wide) in paragraph at lines 566--567
 []\OT1/cmr/m/n/10.95 Journals: BMJ, The Lancet Pub-lic Health, In-ter-na-tional
  Jour-nal of Epi-demi-ol-ogy,
  []
 
 
-Overfull \hbox (7.93686pt too wide) in paragraph at lines 564--565
+Overfull \hbox (7.93686pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10.95 Health, BMJ Open, BMC Pub-lic Health, Jour-nal of Epi-demi-o
 l-ogy and Com-mu-nity
  []
 
 
-Overfull \hbox (24.60756pt too wide) in paragraph at lines 564--565
+Overfull \hbox (24.60756pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10.95 Health, So-cial Sci-ence & Medicine, PlosOne, Pop-u-la-tion 
 Health Met-rics, De-mo-graphic
  []
@@ -1068,32 +1061,27 @@ Health Met-rics, De-mo-graphic
 [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 569.
+(hyperref)                removing `\\' on input line 571.
 
 
-Overfull \hbox (7.47867pt too wide) in paragraph at lines 571--572
+Overfull \hbox (7.47867pt too wide) in paragraph at lines 573--574
 []\OT1/cmr/m/n/10.95 01/10/2019-30/11/2019. \OT1/cmr/bx/n/10.95 Vis-it-ing Scho
 lar\OT1/cmr/m/n/10.95 . De-mo-graphic Cen-ter Stud-ies (CED),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--572
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
 
  []
 
 
-Overfull \hbox (1.57785pt too wide) in paragraph at lines 573--575
+Overfull \hbox (1.57785pt too wide) in paragraph at lines 575--577
 []\OT1/cmr/m/n/10.95 01/12/2018-04/01/2019. \OT1/cmr/bx/n/10.95 Vis-it-ing Scho
 lar\OT1/cmr/m/n/10.95 . In-sti-tut na-tional d'etudes demogra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--575
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
+Underfull \hbox (badness 10000) in paragraph at lines 575--577
 
  []
 
@@ -1108,82 +1096,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 580--581
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 588.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 588.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--594
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
 
  []
 
 
-Overfull \hbox (5.99408pt too wide) in paragraph at lines 595--597
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 590.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--596
+
+ []
+
+
+Overfull \hbox (5.99408pt too wide) in paragraph at lines 597--599
 []\OT1/cmr/bx/n/10.95 Besides pop-u-la-tion age struc-ture, health and other de
 -mo-graphic fac-tors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--597
+Underfull \hbox (badness 10000) in paragraph at lines 597--599
 
  []
 
 
-Overfull \hbox (6.67844pt too wide) in paragraph at lines 599--602
+Overfull \hbox (6.67844pt too wide) in paragraph at lines 601--604
 []\OT1/cmr/bx/n/10.95 Latin Amer-i-can and Caribbean gov-ern-ments must in-crea
 se the COVID-
  []
 
 
-Overfull \hbox (9.04825pt too wide) in paragraph at lines 599--602
+Overfull \hbox (9.04825pt too wide) in paragraph at lines 601--604
 \OT1/cmr/m/n/10.95 Daily Mail (UK), Ya-hoo news (USA), El Es-pec-ta-dor (Colom-
 bia), RND (Ger-many),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 599--602
+Underfull \hbox (badness 10000) in paragraph at lines 601--604
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 605--608
+Underfull \hbox (badness 10000) in paragraph at lines 607--610
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--615
+Underfull \hbox (badness 10000) in paragraph at lines 612--617
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 617--619
+Underfull \hbox (badness 10000) in paragraph at lines 619--621
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 622--627
+Underfull \hbox (badness 10000) in paragraph at lines 624--629
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 644--646
+Underfull \hbox (badness 10000) in paragraph at lines 646--648
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
-
- []
-
-[12]
 Underfull \hbox (badness 10000) in paragraph at lines 650--651
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 652--653
 
  []
@@ -1199,19 +1187,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 656--657
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--662
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
 
- []
-
-
-Overfull \hbox (2.61627pt too wide) in paragraph at lines 663--664
-\OT1/cmr/m/n/10.95 ex-pectancy and lifes-pan dis-per-sion: long-term pat-terns 
-and emerg-ing crossovers''. 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 663--664
 
+ []
+
+
+Overfull \hbox (2.61627pt too wide) in paragraph at lines 665--666
+\OT1/cmr/m/n/10.95 ex-pectancy and lifes-pan dis-per-sion: long-term pat-terns 
+and emerg-ing crossovers''. 
  []
 
 
@@ -1225,7 +1213,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 667--668
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--671
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
 
  []
 
@@ -1235,16 +1223,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 672--673
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
+
+ []
+
+
 AED: lastpage setting LastPage
 [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 760.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 760.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 762.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 762.
  (CV_English_Aburto.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 760.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 760.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 762.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 762.
 Package rerunfilecheck Info: File `CV_English_Aburto.out' has not changed.
 (rerunfilecheck)             Checksum: 4E374A2C44E65C5670A495D41FF2A58A;945.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 760.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 762.
  ) 
 Here is how much of TeX's memory you used:
  6118 strings out of 481199
@@ -1268,7 +1261,7 @@ s/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 mti12.pfb><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmtt10.pfb><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on CV_English_Aburto.pdf (13 pages, 251839 bytes).
+Output written on CV_English_Aburto.pdf (13 pages, 251789 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
