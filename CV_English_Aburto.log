@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.21)  4 JAN 2021 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.21)  18 JAN 2021 14:14
 entering extended mode
 **./CV_English_Aburto.tex
 (CV_English_Aburto.tex
@@ -561,14 +561,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 381--383
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 385--387
-
+Overfull \hbox (13.75844pt too wide) in paragraph at lines 385--387
+\OT1/cmr/m/n/12 database of age-structured COVID-19 cases and deaths''. (2021) 
+\OT1/cmr/m/it/12 In-ter-na-tional
  []
 
 
-Overfull \hbox (9.13452pt too wide) in paragraph at lines 389--390
-\OT1/cmr/m/n/12 vul-ner-a-bil-ity to Covid-19 in Mex-ico]. (Forth-com-ing) \OT1
-/cmr/m/it/12 Coyun-tura De-mografica\OT1/cmr/m/n/12 . 
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
  []
 
 
@@ -1047,15 +1047,21 @@ Overfull \hbox (5.29295pt too wide) in paragraph at lines 566--567
  []
 
 
-Overfull \hbox (7.93686pt too wide) in paragraph at lines 566--567
-\OT1/cmr/m/n/10.95 Health, BMJ Open, BMC Pub-lic Health, Jour-nal of Epi-demi-o
-l-ogy and Com-mu-nity
+Overfull \hbox (29.60759pt too wide) in paragraph at lines 566--567
+\OT1/cmr/m/n/10.95 Stud-ies, BMJ Global Health, BMJ Open, BMC Pub-lic Health, J
+our-nal of Epi-demi-ol-ogy
  []
 
 
-Overfull \hbox (24.60756pt too wide) in paragraph at lines 566--567
-\OT1/cmr/m/n/10.95 Health, So-cial Sci-ence & Medicine, PlosOne, Pop-u-la-tion 
-Health Met-rics, De-mo-graphic
+Overfull \hbox (4.22833pt too wide) in paragraph at lines 566--567
+\OT1/cmr/m/n/10.95 Sci-ence & Medicine, PlosOne, Pop-u-la-tion Health Met-rics,
+ De-mo-graphic Re-search,
+ []
+
+
+Overfull \hbox (21.77878pt too wide) in paragraph at lines 566--567
+\OT1/cmr/m/n/10.95 Jour-nal of Health Pol-icy and Man-age-ment, In-jury Pre-ven
+-tion, The-o-ret-i-cal Pop-u-la-tion
  []
 
 [10]
@@ -1102,113 +1108,118 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--583
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 590.
+(hyperref)                removing `\\' on input line 587.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 590.
+(hyperref)                removing `\\' on input line 587.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 591--596
+Underfull \hbox (badness 10000) in paragraph at lines 588--593
 
  []
 
 
-Overfull \hbox (5.99408pt too wide) in paragraph at lines 597--599
+Overfull \hbox (5.99408pt too wide) in paragraph at lines 594--596
 []\OT1/cmr/bx/n/10.95 Besides pop-u-la-tion age struc-ture, health and other de
 -mo-graphic fac-tors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 597--599
+Underfull \hbox (badness 10000) in paragraph at lines 594--596
 
  []
 
 
-Overfull \hbox (6.67844pt too wide) in paragraph at lines 601--604
+Overfull \hbox (6.67844pt too wide) in paragraph at lines 598--601
 []\OT1/cmr/bx/n/10.95 Latin Amer-i-can and Caribbean gov-ern-ments must in-crea
 se the COVID-
  []
 
 
-Overfull \hbox (9.04825pt too wide) in paragraph at lines 601--604
+Overfull \hbox (9.04825pt too wide) in paragraph at lines 598--601
 \OT1/cmr/m/n/10.95 Daily Mail (UK), Ya-hoo news (USA), El Es-pec-ta-dor (Colom-
 bia), RND (Ger-many),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--604
+Underfull \hbox (badness 10000) in paragraph at lines 598--601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--610
+Underfull \hbox (badness 10000) in paragraph at lines 604--607
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 612--617
+Underfull \hbox (badness 10000) in paragraph at lines 609--614
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 619--621
+Underfull \hbox (badness 10000) in paragraph at lines 616--618
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 624--629
+Underfull \hbox (badness 10000) in paragraph at lines 621--626
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--648
+Underfull \hbox (badness 10000) in paragraph at lines 643--645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 654--655
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--659
+Underfull \hbox (badness 10000) in paragraph at lines 655--656
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 663--664
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
 
  []
 
 
-Overfull \hbox (2.61627pt too wide) in paragraph at lines 665--666
+Overfull \hbox (2.61627pt too wide) in paragraph at lines 662--663
 \OT1/cmr/m/n/10.95 ex-pectancy and lifes-pan dis-per-sion: long-term pat-terns 
 and emerg-ing crossovers''. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 665--666
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 667--668
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
 
  []
 
@@ -1218,26 +1229,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--670
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 674--675
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
 
  []
 
 
 AED: lastpage setting LastPage
 [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 762.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 762.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 759.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 759.
  (CV_English_Aburto.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 762.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 762.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 759.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 759.
 Package rerunfilecheck Info: File `CV_English_Aburto.out' has not changed.
 (rerunfilecheck)             Checksum: 4E374A2C44E65C5670A495D41FF2A58A;945.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 762.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 759.
  ) 
 Here is how much of TeX's memory you used:
  6118 strings out of 481199
@@ -1246,7 +1252,7 @@ Here is how much of TeX's memory you used:
  21594 multiletter control sequences out of 15000+200000
  542647 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,14n,45p,698b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,13n,45p,763b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\jmabu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1261,9 +1267,9 @@ s/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 mti12.pfb><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmtt10.pfb><C:/Users/jmabu/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on CV_English_Aburto.pdf (13 pages, 251789 bytes).
+Output written on CV_English_Aburto.pdf (13 pages, 252506 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
+ 253 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
